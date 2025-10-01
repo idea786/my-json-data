@@ -46,7 +46,11 @@
     "isNifty50": false,
     "isFNO": false,
     "revenueGrowth": 0.0,
-    "earningsGrowth": 0.0
+    "earningsGrowth": 0.0,
+    "signalStrength": 60,
+    "signalConfidence": 75,
+    "actionSignal": "HOLD",
+    "positiveSignals": 4
   },
   {
     "symbol": "ARE&M.NS",
@@ -95,7 +99,11 @@
     "isNifty50": false,
     "isFNO": false,
     "revenueGrowth": 0.0,
-    "earningsGrowth": 0.0
+    "earningsGrowth": 0.0,
+    "signalStrength": 55,
+    "signalConfidence": 65,
+    "actionSignal": "HOLD",
+    "positiveSignals": 1
   },
   {
     "symbol": "ASAHIINDIA.NS",
@@ -144,7 +152,11 @@
     "isNifty50": false,
     "isFNO": false,
     "revenueGrowth": 0.0,
-    "earningsGrowth": 0.0
+    "earningsGrowth": 0.0,
+    "signalStrength": 60,
+    "signalConfidence": 65,
+    "actionSignal": "HOLD",
+    "positiveSignals": 3
   },
   {
     "symbol": "BAJAJ-AUTO.NS",
@@ -193,7 +205,11 @@
     "isNifty50": false,
     "isFNO": true,
     "revenueGrowth": 0.0,
-    "earningsGrowth": 0.0
+    "earningsGrowth": 0.0,
+    "signalStrength": 45,
+    "signalConfidence": 60,
+    "actionSignal": "SELL",
+    "positiveSignals": 1
   },
   {
     "symbol": "BALKRISIND.NS",
@@ -242,7 +258,11 @@
     "isNifty50": false,
     "isFNO": false,
     "revenueGrowth": 0.0,
-    "earningsGrowth": 0.0
+    "earningsGrowth": 0.0,
+    "signalStrength": 40,
+    "signalConfidence": 75,
+    "actionSignal": "STRONG SELL",
+    "positiveSignals": 1
   },
   {
     "symbol": "BHARATFORG.NS",
@@ -291,7 +311,11 @@
     "isNifty50": false,
     "isFNO": true,
     "revenueGrowth": 0.0,
-    "earningsGrowth": 0.0
+    "earningsGrowth": 0.0,
+    "signalStrength": 70,
+    "signalConfidence": 65,
+    "actionSignal": "HOLD",
+    "positiveSignals": 4
   },
   {
     "symbol": "BOSCHLTD.NS",
@@ -340,7 +364,11 @@
     "isNifty50": false,
     "isFNO": true,
     "revenueGrowth": 0.0,
-    "earningsGrowth": 0.0
+    "earningsGrowth": 0.0,
+    "signalStrength": 45,
+    "signalConfidence": 70,
+    "actionSignal": "SELL",
+    "positiveSignals": 0
   },
   {
     "symbol": "CEATLTD.NS",
@@ -389,7 +417,11 @@
     "isNifty50": false,
     "isFNO": false,
     "revenueGrowth": 0.0,
-    "earningsGrowth": 0.0
+    "earningsGrowth": 0.0,
+    "signalStrength": 85,
+    "signalConfidence": 65,
+    "actionSignal": "STRONG BUY",
+    "positiveSignals": 5
   },
   {
     "symbol": "CIEINDIA.NS",
@@ -438,7 +470,11 @@
     "isNifty50": false,
     "isFNO": false,
     "revenueGrowth": 0.0,
-    "earningsGrowth": 0.0
+    "earningsGrowth": 0.0,
+    "signalStrength": 60,
+    "signalConfidence": 65,
+    "actionSignal": "HOLD",
+    "positiveSignals": 3
   },
   {
     "symbol": "CRAFTSMAN.NS",
@@ -487,6 +523,10 @@
     "isNifty50": false,
     "isFNO": false,
     "revenueGrowth": 0.0,
-    "earningsGrowth": 0.0
+    "earningsGrowth": 0.0,
+    "signalStrength": 50,
+    "signalConfidence": 65,
+    "actionSignal": "SELL",
+    "positiveSignals": 1
   }
 ]
